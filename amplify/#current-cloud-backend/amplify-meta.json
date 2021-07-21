@@ -1,0 +1,15 @@
+{
+  "providers": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-farmdash-dev-222418-authRole",
+      "UnauthRoleArn": "arn:aws:iam::437686421006:role/amplify-farmdash-dev-222418-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::437686421006:role/amplify-farmdash-dev-222418-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-farmdash-dev-222418-deployment",
+      "UnauthRoleName": "amplify-farmdash-dev-222418-unauthRole",
+      "StackName": "amplify-farmdash-dev-222418",
+      "StackId": "arn:aws:cloudformation:us-east-2:437686421006:stack/amplify-farmdash-dev-222418/241d18b0-e9d3-11eb-ab08-0286964bba4c",
+      "AmplifyAppId": "d53bo7iohzwou"
+    }
+  }
+}
